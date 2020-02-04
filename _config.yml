@@ -1,0 +1,48 @@
+title: "KC1MJP"
+description: "Amateur Radio Site of Michael J. Ford - KC1MJP"
+author:
+  name: "Michael J. Ford - KC1MJP"
+
+baseurl: /
+url: "http://www.kc1mjp.us"
+
+source: .
+destination: ./_site
+permalink: /:year/:month/:title/
+paginate: 3
+paginate_path: /page/:num/
+
+# Build settings
+markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+future: true
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Custom variables
+owner : "Michael J. Ford"
+year : "2020"
+twitter_username : Michael_J_Ford
+
+# Google Tracking
+google_analytics:
+
+# Exclude from processing
+exclude:
+   - .gitignore
+   - .gitlab-ci
+   - license.md
+   - README.md
+   - Gemfile
+   - Gemfile.lock
+   - build/
