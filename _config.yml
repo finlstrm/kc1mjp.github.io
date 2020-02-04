@@ -47,4 +47,4 @@ exclude:
    - Gemfile.lock
    - build/
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-hacker
