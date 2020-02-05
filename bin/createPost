@@ -1,0 +1,57 @@
+#!/bin/bash
+#------------------------------------------------------------------------------
+#
+# Name   : createPost
+# Author : Michael J. Ford
+# Purpose: Quick little script for creating new posts... because I'm super lazy
+#
+#------------------------------------------------------------------------------
+#
+# LastMod: 20200204 - Michael J. Ford <michael.ford@slashetc.us>
+#     - created
+#
+#------------------------------------------------------------------------------
+# --- Main Code
+#------------------------------------------------------------------------------
+
+dateTime="$( date "+%Y-%m-%d %H:%M:00 %z" )"
+date="$( date "+%Y-%m-%d" )"
+title="$@"
+titleFile="${date}-$( echo ${title,,} | sed 's/ /-/g').md"
+postsDir="./_posts"
+
+if [[ ! -d ${postsDir} ]]
+then
+   echo "ERR: ${postsDir} does not exist"
+   exit 1
+elif [[ -f ${postsDir}/${titleFile} ]]
+then
+   echo "ERR: ${postsDir}/${titleFile} already exists"
+   exit 1
+fi
+
+echo "---
+layout: post
+title: ${title}
+date: ${dateTime}
+author: Michael
+type: post
+published: true
+status: publish
+---
+
+" > ${postsDir}/${titleFile}
+
+if [[ $? != 0 ]]
+then
+   echo "ERR: Unable to create file - ${postsDir}/${titleFile}"
+   exit 1
+else
+   fileLines="$( wc -l ${postDir}/${titleFile} )"
+   vim -c ":${fileLines}" ${postsDir}/${titleFile}
+   exit $?
+fi
+
+#------------------------------------------------------------------------------
+# --- End Scripta
+#------------------------------------------------------------------------------
