@@ -43,13 +43,10 @@ permalink: /nets/
    - RIAFMRS ('76) - [https://www.qsl.net/riafmrs/](https://www.qsl.net/riafmrs/)
 
 ## Repeaters I Monitor, Sometimes Active:
-   - N1JL, Coventry RI; 145.210- PL 192.8
    - W1YSE, Portsmouth, RI; 145.450- PL 100.0
    - K1CR, Cranston, RI; 146.700- PL none
    - W1AQ, East Providence, RI; 147.330+ PL 173.8
-   - K1RSR, North Providence, RI; 146.625- PL 67.0
 
 ## Frequencies I Monitor:
-
    - 2 Meters: 146.520
    - 10 Meters: 28.400
