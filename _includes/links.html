@@ -10,7 +10,12 @@
 
 <a href="https://app.slashetc.us/cloudlog"><h2 class="header-link">CloudLog</h2></a>
 
-<a href="{{ "/nets" | prepend: site.baseurl | replace: '//', '/' }}"><h2 class="header-link">Nets</h2></a>
+<div class="dropdown">
+   <a href="{{ "/nets" | prepend: site.baseurl | replace: '//', '/' }}"><h2 class="header-link">Nets</h2></a>
+   <div class="dropdown-content">
+      <a href="/nb1ri-network/"><h2 class="header-link">NB1RI Network</h2></a>
+   </div>
+</div>
 
 <div class="dropdown">
    <a href="{{ "/contact" | prepend: site.baseurl | replace: '//', '/' }}"><h2 class="header-link">Contact</h2></a>
