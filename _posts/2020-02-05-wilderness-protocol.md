@@ -25,13 +25,13 @@ Protocol is also included in the
 [ARRL ARES Emergency Resources Manual](http://www.arrl.org/files/file/ARESFieldResourcesManual.pdf).
 Per the manual, the protocol is:
 
-*"The Wilderness protocol (see page 101, August 1995 QST) calls for hams in the
-wilderness to announce their presence on, and to monitor, the national calling
-frequencies for five minutes beginning at the top of the hour, every three hours
-from 7 AM to 7 PM while in the back country. A ham in a remote location may be
-able to relay emergency information through another wilderness ham who has better
-access to a repeater. National calling frequencies: 52.525, 146.52, 223.50, 446.00,
-1294.50 MHz."*
+> *"The Wilderness protocol (see page 101, August 1995 QST) calls for hams in the
+> wilderness to announce their presence on, and to monitor, the national calling
+> frequencies for five minutes beginning at the top of the hour, every three hours
+> from 7 AM to 7 PM while in the back country. A ham in a remote location may be
+> able to relay emergency information through another wilderness ham who has better
+> access to a repeater. National calling frequencies: 52.525, 146.52, 223.50, 446.00,
+> 1294.50 MHz."*
 
 I would also extend the above to say montior continuously, if possible. Such as
 while driving through back country roads, or putting it into your scanner. I have
