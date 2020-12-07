@@ -12,3 +12,7 @@ layout: default
 
 ## [About Me](/about)
 {: .center-text}
+
+<center>
+<iframe allowtransparency="true" style="background: #FFFFFF;" align="top" frameborder="0" height="500" scrolling="no" src="https://logbook.qrz.com/lbstat/KC1MJP/" width="740"></iframe>
+</center>
