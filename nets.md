@@ -30,11 +30,14 @@ permalink: /nets/
       - [http://riswap.net/](http://riswap.net/)
 
 ### Sunday:
+   - 19:00 - 21:00 ET : PAWA (Pilgram Amateur Wireless Assn.) 10 Meter Net - 28.375 USB
+      - [https://www.facebook.com/groups/237378091673/](https://www.facebook.com/groups/237378091673/)
+      - They also have a daily 10 Meter Rag Chew on 28.375 USB @ 08:00
    - 20:00 - 21:00 ET : PRA (Providence Radio Assn.) Net : NEDECN - NETAC1 TG (8801)
       - [https://nedecn.org/about-nedecn/dmr-nets/](https://nedecn.org/about-nedecn/dmr-nets/)
 
 ### As Announced:
-   - Hurricane Watch Net : [https://www.hwn.org/](https://www.hwn.org/)
+   - Hurricane Watch Net : [https://www.hwn.org/](https://www.hwn.org/) (*listen only*)
       - 14.325 MHz (USB) by day and 7.268 MHz (LSB) by night
 
 ## Repeater Networks I'm Active on:
@@ -48,5 +51,5 @@ permalink: /nets/
    - W1AQ, East Providence, RI; 147.330+ PL 173.8
 
 ## Frequencies I Monitor:
-   - 2 Meters: 146.520
+   - 2 Meters: 146.520 (*currently mobile only*)
    - 10 Meters: 28.400
