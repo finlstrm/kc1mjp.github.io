@@ -73,7 +73,7 @@ than 3200ft, so I'll have to use the 100:1 ratio (which sucks). The math:
 What! 22ft! That's IT! My Imax is 24ft, and would technicly need a permit mounted at ground level... But.. luckily there's some
 wording in the FAA rules which we can use to work around this number (quite a bit)
 
-# Too close, for really anything, but there's always execptions
+## Too close, for really anything, but there's always execptions
 
 In FAA Code of Federal Regulations, Title 14, Part 77.9(e), there's an exception to this hight issue above.
 
@@ -91,7 +91,7 @@ Line up the top of the stick with the top of the tree, once done, your feet shou
 the tree as it is tall (if you remember geometry, you'll realize you've just made a right triangle). That hight is antenna
 structure limit.
 
-# Closing Thoughts
+## Closing Thoughts
 
 All that and I still don't know how high I can go.. Waiting on the snow to melt and for the weather to get a little bit warmer.
 However, as a ball park guess, I'm thinking I'll be able to do 40-50 feet, which is about what I was looking for anyway. So at
