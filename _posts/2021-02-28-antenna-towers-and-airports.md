@@ -96,3 +96,5 @@ structure limit.
 All that and I still don't know how high I can go.. Waiting on the snow to melt and for the weather to get a little bit warmer.
 However, as a ball park guess, I'm thinking I'll be able to do 40-50 feet, which is about what I was looking for anyway. So at
 the end of the day, I could have just done what I wanted, but better to play it safe - nobody want's a knock on the door from the FAA.
+
+Src: [https://hamradioschool.com/g1b01-maximum-antenna-structure-height/](https://hamradioschool.com/g1b01-maximum-antenna-structure-height/)
