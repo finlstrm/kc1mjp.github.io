@@ -5,13 +5,15 @@ permalink: /my-station/
 ---
 
 My station is still very much on the light side. The base comprises of an
-Kenwood TS-130s, used for 10 Meters connected to an I-Max 2000 antenna. Hopefully
-soon I'll be able to use all of it's bands. As well as a
-Uniden 760xlt Scanner. It's not much, but it's home :).
+Kenwood TS-130s, used for 10 Meters connected to an I-Max 2000 antenna - which
+loads up nicely (without a tuner) on 10, 12 & 15 meters - 17/20 with the tuner.
+As well as an Anytone 778uv & Uniden 760xlt Scanner. It's not much, but it's home :).
 
-Most of my 2m/440 time is spent mobile on a [Lexien VV-898E](/2020/07/review-leixen-vv-898e-25w-vhf-uhf-radio/), or portable on a
+Most of my 2m/440 time is spent mobile on a ~~[Lexien VV-898E](/2020/07/review-leixen-vv-898e-25w-vhf-uhf-radio/)~~ (now AT778uv), or portable on a
 Baofeng UV-82HP. I'm hoping over time as I grow in ham radio my station will
 grow with me to 'bigger' and 'better' radios.
+
+Note for Sept 2021, this page needs some love ...
 
 ### Base Station Radios
 
