@@ -14,10 +14,16 @@ gem "jekyll", "~> 3.9.0"
 gem "minima", "~> 2.0"
 
 # Kramdown Version
-gem "kramdown", ">= 2.3.0" # CVE-2020-14001
+gem "kramdown", ">= 2.3.1"    # CVE-2020-14001, CVE-2021-28834
 
 # Nokogiri Version
-gem "nokogiri", ">= 1.11.0" # CVE-2020-26247
+gem "nokogiri", ">= 1.11.4"   # CVE-2020-26247, CVE-2021-3518
+
+# Addressable Version
+gem "addressable", ">= 2.8.0" # CVE-2021-32740
+
+# Rexml Version
+gem "rexml", ">= 3.2.5"       # CVE-2021-28965
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
