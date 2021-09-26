@@ -12,6 +12,7 @@ Just a spot for things I found interesting and/or helpful in the world of Amateu
 * NB1RI Repeater Network: [http://www.nb1ri.net/](http://www.nb1ri.net/)
 * Quahog Repeater Network: [http://www.quahognet.com/](http://www.quahognet.com/)
 * RI Amateur Radio Emergancy Service (RI ARES): [http://riares.org/](http://riares.org/)
+* New England Digital Emergancy Communications Network (NEDECN): [https://nedecn.org/](https://nedecn.org/)
 * New England Repeater Directory (NERD): [http://www.nerepeaters.com/](http://www.nerepeaters.com/)
 * New England Spectrum Management Council (NESMC): [https://www.nesmc.org/](https://www.nesmc.org/)
 * NESMC Band Plan: [https://www.nesmc.org/docs/bandplans.pdf](https://www.nesmc.org/docs/bandplans.pdf)
