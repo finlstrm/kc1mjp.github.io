@@ -8,16 +8,16 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.9.0"
+gem "jekyll", "~> 3.9.2"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.0"
+gem "minima", "~> 2.5.1"
 
 # Kramdown Version
-gem "kramdown", ">= 2.3.1"    # CVE-2020-14001, CVE-2021-28834
+gem "kramdown", ">= 2.3.2"    # CVE-2020-14001, CVE-2021-28834
 
 # Nokogiri Version
-gem "nokogiri", ">= 1.11.4"   # CVE-2020-26247, CVE-2021-3518
+gem "nokogiri", ">= 1.13.4"   # CVE-2020-26247, CVE-2021-3518
 
 # Addressable Version
 gem "addressable", ">= 2.8.0" # CVE-2021-32740
@@ -31,7 +31,7 @@ gem "rexml", ">= 3.2.5"       # CVE-2021-28965
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
+  gem "jekyll-feed", "~> 0.15.1"
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
   gem "activesupport", ">= 4.1.11"
@@ -43,4 +43,6 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
-gem "github-pages", "~> 219", group: :jekyll_plugins
+gem "github-pages", "~> 226", group: :jekyll_plugins
+
+gem "webrick", "~> 1.7"
