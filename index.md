@@ -8,7 +8,7 @@ layout: default
 {: .center-text}
 
 
-![](/assets/image/myQsl.jpg){: .center-image }
+![](/assets/image/ts440s.jpg){: .center-image }
 
 ## [Enter The Blog](/blog)
 {: .center-text}

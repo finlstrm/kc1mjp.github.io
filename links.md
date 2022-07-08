@@ -9,6 +9,8 @@ Just a spot for things I found interesting and/or helpful in the world of Amateu
 ## Local Rhode Island and New England
 
 * Rhode Island Swap and Sell Net: [http://riswap.net/](http://riswap.net/)
+* WA1USA RICOMMU: [http://www.wa1usa.club/](http://www.wa1usa.club/)
+* WA1USA Repeaters: [http://www.wa1usa.club/about-us/](http://www.wa1usa.club/about-us/)
 * NB1RI Repeater Network: [http://www.nb1ri.net/](http://www.nb1ri.net/)
 * Quahog Repeater Network: [http://www.quahognet.com/](http://www.quahognet.com/)
 * RI Amateur Radio Emergancy Service (RI ARES): [http://riares.org/](http://riares.org/)
@@ -31,6 +33,9 @@ building a safe station should come first, fun second.
 wiring, *grounding*, and more! Also how to deal with that engine/altenator whine!
    * [http://www.k0bg.com/](http://www.k0bg.com/)
 
+* CloudLog (My Logbook of choice)
+   * [https://github.com/magicbug/Cloudlog](https://github.com/magicbug/Cloudlog)
+
 ## Some other cool stuff
 
 * ARRL Band Plans: [http://www.arrl.org/band-plan](http://www.arrl.org/band-plan)
@@ -43,3 +48,4 @@ wiring, *grounding*, and more! Also how to deal with that engine/altenator whine
 * Hurricane Watch Net: [https://www.hwn.org/](https://www.hwn.org/)
 * Ham Universe: [http://www.hamuniverse.com](http://www.hamuniverse.com)
 * SKYWARN: [https://www.weather.gov/skywarn/](https://www.weather.gov/skywarn/)
+* Repeater-Builder: [http://www.repeater-builder.com](http://www.repeater-builder.com)
